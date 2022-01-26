@@ -1,0 +1,6 @@
+{
+    "installCommand": "install",
+    "packages": ["/tasks-fe"],
+    "sandboxes": ["/tasks"],
+    "node": "14"
+}
